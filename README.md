@@ -10,7 +10,7 @@
 
 1. Clone this repository on your local machine
 ```
-$ git clone "https://github.com/NishkarshRaj/Hostel-Pass-Management-Application.git"
+$ git clone "https://github.com/stormsinbrewing/Hostel-Pass-Management-Application.git"
 ```
 
 2. Open SQL Plus on your local machine and configure Database by using the Creation and insertion files in **dbms_files** directory.
