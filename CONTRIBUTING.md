@@ -35,7 +35,7 @@ $ git push -u origin branchname
 
 1. Create upstream as our repository
 ```
-$ git remote add upstream "https://www.github.com/NishkarshRaj/Hostel-Pass-Management-Application"
+$ git remote add upstream "https://www.github.com/stormsinbrewing/Hostel-Pass-Management-Application"
 ```
 
 2. Fetch upstream changes in local machine
